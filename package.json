@@ -1,0 +1,13 @@
+{
+    "name": "ecom-analytics",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "all": "concurrently \"cd src/elysia && bun run dev\" \"cd src/react && bun run dev\"",
+        "elysia": "cd src/elysia && bun run dev",
+        "react": "cd src/react && bun run dev"
+    },
+    "devDependencies": {
+        "concurrently": "^8.0.0"
+    }
+}

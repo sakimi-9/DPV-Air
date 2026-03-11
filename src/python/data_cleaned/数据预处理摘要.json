@@ -1,0 +1,57 @@
+{
+  "daily": {
+    "raw_count": 100001,
+    "cleaned_count": 99737,
+    "removed_count": 264,
+    "fields": [
+      "o3_1h",
+      "no2fzs",
+      "pm10fzs",
+      "pm10",
+      "jcrq",
+      "pm25fzs",
+      "co",
+      "xh",
+      "no2",
+      "o3_1hfzs",
+      "cofzs",
+      "pm25",
+      "o3_8hfzs",
+      "so2",
+      "so2fzs",
+      "aqi",
+      "sywrw",
+      "o3_8h",
+      "date",
+      "month",
+      "weekday",
+      "is_weekend",
+      "season"
+    ]
+  },
+  "hourly": {
+    "raw_count": 21216,
+    "cleaned_count": 21071,
+    "removed_count": 145,
+    "fields": [
+      "jcz",
+      "jcsj",
+      "pxh",
+      "zdbh",
+      "sjbj",
+      "xh",
+      "cjsj",
+      "zdz",
+      "bz",
+      "zxz",
+      "xgsj",
+      "yzbh",
+      "timestamp",
+      "jcz_value",
+      "zdz_value",
+      "zxz_value",
+      "date",
+      "hour"
+    ]
+  }
+}
